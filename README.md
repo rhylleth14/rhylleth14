@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Amleth de Torres, an IT Professional.
 
 🎓 I’m currently pursuing my **Master’s in Graphic Information Technology at Arizona State University (ASU)**.  
-💻 I use **AI-enhanced workflows** for my professional work in **digital content strategy**, in my current job and I’ve gained strong exposure to **UX research methods, usability testing, and behavioral analytics** during my studies in ASU.  
+💻 I use **AI-enhanced workflows** for my professional work in **digital content strategy** in my current job and I’ve gained strong exposure to **UX research methods, usability testing, and behavioral analytics** during my studies in ASU.  
 🚀 My career goal is to combine design and technology by working in **UX design, technical support, or systems administration** after graduation.  
 
 ---
