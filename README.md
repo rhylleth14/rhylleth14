@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌟 What I Enjoy
-- Designing clean and usable digital interfaces for Lions and volunteer activities. 
+- Designing intuitive digital interfaces to support Lions Club fundraising and volunteer initiative. 
 - Exploring **UX design trends** and minimalist layouts using the AI enhanced workflows.
 - Solving technical challenges and improving workflows.
 - Hobbies: digital illustration, music events, and photography 📸, playing basketball & pickleball, walking, love going to the beach and trying new recommended restaurant.
